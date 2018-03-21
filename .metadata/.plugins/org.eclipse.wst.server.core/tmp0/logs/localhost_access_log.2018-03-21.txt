@@ -1,0 +1,16 @@
+127.0.0.1 - - [21/Mar/2018:14:04:34 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:04:45 +0530] "GET /016_Spring_hibernate/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:04:46 +0530] "GET /favicon.ico HTTP/1.1" 404 973
+127.0.0.1 - - [21/Mar/2018:14:12:30 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:12:38 +0530] "GET /016_Spring_hibernate/ HTTP/1.1" 404 949
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:13:54 +0530] "GET /016_Spring_hibernate/ HTTP/1.1" 404 949
+127.0.0.1 - - [21/Mar/2018:14:14:22 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:14:30 +0530] "GET /016_Spring_hibernate/ HTTP/1.1" 404 949
+127.0.0.1 - - [21/Mar/2018:14:45:09 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:45:21 +0530] "GET /003_SpringMVC_Hibernate/ HTTP/1.1" 200 302
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:45:28 +0530] "GET /003_SpringMVC_Hibernate/employeeForm.html HTTP/1.1" 200 808
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:45:41 +0530] "POST /003_SpringMVC_Hibernate/saveEmployee.html HTTP/1.1" 500 13308
+127.0.0.1 - - [21/Mar/2018:14:47:15 +0530] "GET / HTTP/1.1" 404 951
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:47:24 +0530] "GET /003_SpringMVC_Hibernate/ HTTP/1.1" 200 302
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:47:26 +0530] "GET /003_SpringMVC_Hibernate/employeeForm.html HTTP/1.1" 200 808
+0:0:0:0:0:0:0:1 - - [21/Mar/2018:14:47:38 +0530] "POST /003_SpringMVC_Hibernate/saveEmployee.html HTTP/1.1" 200 288

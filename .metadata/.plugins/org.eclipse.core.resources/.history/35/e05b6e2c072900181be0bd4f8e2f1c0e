@@ -1,0 +1,5 @@
+package com.spring.emp.bean;
+
+public class Emp {
+
+}

@@ -1,0 +1,23 @@
+package com.spring.hibernate;
+
+import java.util.ArrayList;
+import java.util.List;
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.ModelAttribute;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.spring.emp.bean.Emp;
+
+@Controller
+public class EmpController {
+	@RequestMapping("/home")
+	public ModelAndView showform() {
+		// command is a reserved request attribute name, now use <form> tag to show
+		// object data
+		return new ModelAndView("index");
+	
+	
+	}
+}

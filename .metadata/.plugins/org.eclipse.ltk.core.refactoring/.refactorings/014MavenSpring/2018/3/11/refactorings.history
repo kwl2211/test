@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;014MavenSpring/src/main/resources/templets&apos; to &apos;templates&apos;" description="Rename resource &apos;templets&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/resources/templets" name="templates" stamp="1521019333936" updateReferences="true"/>
+</session>
