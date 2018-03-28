@@ -110,15 +110,31 @@
 		<item value="org.springsource.sts.package:3.9.0.201707061823-RELEASE-e47"/>
 		<item value="org.springsource.sts:3.9.0.201707061823-RELEASE"/>
 	</list>
+	<section name="CleanDialogSettings">
+		<item value="500" key="DIALOG_WIDTH"/>
+		<item value="false" key="TOGGLE_SELECTED"/>
+		<item value="402" key="DIALOG_HEIGHT"/>
+		<item value="433" key="DIALOG_X_ORIGIN"/>
+		<item value="96" key="DIALOG_Y_ORIGIN"/>
+	</section>
 	<section name="ExternalProjectImportWizard">
 		<item value="false" key="WizardProjectsImportPage.STORE_NESTED_PROJECTS"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_COPY_PROJECT_ID"/>
 		<item value="false" key="WizardProjectsImportPage.STORE_ARCHIVE_SELECTED"/>
 		<list key="WizardProjectsImportPage.STORE_DIRECTORIES">
+			<item value="C:\Users\666273\Downloads\springmvc-master\springmvc-master\005_SpringBoot_MYSQL"/>
+			<item value="C:\Users\666273\Downloads\springboot01-master\springboot01-master"/>
+			<item value="C:\Users\666273\Downloads\springboot01-master"/>
 			<item value="C:\Users\666273\Downloads\springmvc-master\springmvc-master\003_SpringMVC_Hibernate"/>
 		</list>
 		<list key="WizardProjectsImportPage.STORE_ARCHIVES">
+			<item value="C:\Users\666273\Downloads\springboot01-master\springboot01-master"/>
+			<item value=""/>
 			<item value="C:\Users\666273\Documents\workspace-sts-3.9.0.RELEASE\016_Spring_hibernate\WebContent\WEB-INF\springHibernate-servlet.xml"/>
+		</list>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
 		</list>
 	</section>
 	<section name="NewWizardAction">
@@ -126,5 +142,9 @@
 		<list key="NewWizardSelectionPage.STORE_EXPANDED_CATEGORIES_ID">
 			<item value="org.eclipse.jdt.ui.java"/>
 		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="381" key="DIALOG_X_ORIGIN"/>
+		<item value="185" key="DIALOG_Y_ORIGIN"/>
 	</section>
 </section>

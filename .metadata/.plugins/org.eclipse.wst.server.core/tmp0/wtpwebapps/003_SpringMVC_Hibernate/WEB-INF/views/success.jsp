@@ -7,6 +7,10 @@
 <title>Success</title>
 </head>
 <body>
+<a href="employeeForm.html">Add Employee</a>
+	<a href="viewEmployee.html">View Employee</a>
+	
+
 	<h1>Employee is saved to the database</h1>
 </body>
 </html>

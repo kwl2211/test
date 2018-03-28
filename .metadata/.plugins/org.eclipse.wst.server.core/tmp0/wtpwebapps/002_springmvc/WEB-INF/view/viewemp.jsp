@@ -10,12 +10,12 @@
 		<th>Designation</th>
 	</tr>
 
-	<c:forEach var="emp" items="${list}">
+	<c:forEach var="emp" items="${allEmployee}">
 		<tr>
 			<td>${emp.id}</td>
-			<td>${emp.name}</td>
-			<td>${emp.salary}</td>
-			<td>${emp.designation}</td>
+			<td>${emp.employeeName}</td>
+			<td>${emp.employeeSalary}</td>
+			<td>${emp.employeeDesignation}</td>
 		</tr>
 	</c:forEach>
 </table>

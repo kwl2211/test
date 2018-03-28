@@ -8,6 +8,7 @@
 </head>
 <body>
 	<a href="employeeForm.html">Add Employee</a>
+	<a href="viewEmployee.html">View Employee</a>
 	
 
 </body>
