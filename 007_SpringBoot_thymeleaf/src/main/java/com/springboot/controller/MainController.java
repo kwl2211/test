@@ -72,6 +72,7 @@ public class MainController {
  
             return "redirect:/personList";
         }
+      
  
         model.addAttribute("errorMessage", errorMessage);
         return "addPerson";
